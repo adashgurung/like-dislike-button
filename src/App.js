@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-/* import FavoriteIcon from "@material-ui/icons/Favorite"; */
+
 import ThumbUpIcon from "@material-ui/icons/ThumbUp";
 import ThumbDownIcon from "@material-ui/icons/ThumbDown";
 
